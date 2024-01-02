@@ -2,7 +2,7 @@
 Use emoji in your comments
 
 
-💩   garbage code                                垃圾代码  
+|💩  | garbage code |                                垃圾代码 | 
 🚩   waiting complete                            待处理
 ❌   error                                       错误, 无法运行等
 🐞   bug                                         漏洞
