@@ -3,7 +3,7 @@ Use emoji in your comments
 
 
 |💩  | garbage code |                                垃圾代码 | 
-🚩   waiting complete                            待处理
+|🚩 |  waiting complete |                            待处理|
 ❌   error                                       错误, 无法运行等
 🐞   bug                                         漏洞
 💀   danger code                                 危险代码
