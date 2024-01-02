@@ -1,7 +1,7 @@
 # emoji-comment
 
-. Use emojis in comments instead of repeating statements.
-. Search for code by emoji
+- Use emojis in comments instead of repeating statements
+- Search for code by emoji
 
   
 | emoji | English | Chinese |
