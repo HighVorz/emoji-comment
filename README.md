@@ -1,7 +1,8 @@
 # emoji-comment
 Use emoji in your comments
 
-
+| emoji | English | Chinese |
+| ---- | ---- | ---- |
 |💩  | garbage code |                                垃圾代码 | 
 |🚩 |  waiting complete |                            待处理|
 ❌   error                                       错误, 无法运行等
