@@ -1,6 +1,9 @@
 # emoji-comment
-Use emoji in your comments
 
+. Use emojis in comments instead of repeating statements.
+. Search for code by emoji
+
+  
 | emoji | English | Chinese |
 | ---- | ---- | ---- |
 |💩  | garbage code |                                垃圾代码 | 
